@@ -2,7 +2,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=UzJu.readme)  
 ![](https://github.com/UzJu/UzJu/blob/main/images.png)  
 ![](https://github.com/UzJu/UzJu/blob/main/Metasploit_Logo.png)  
-![info](https://github-readme-stats.vercel.app/api?username=UzJu&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+![info](https://github-readme-stats.vercel.app/api?username=UzJu&show_icons=true&count_private=true&hide=prs&theme=cobalt)  
+### Info
+My Blog->Blog.CatGames.cn
+My Email->UzJuer@163.com
+Base ShenZhen
 <!--
 **UzJu/UzJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
