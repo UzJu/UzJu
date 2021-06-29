@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthehackernews.com%2F2011%2F06%2Fmetasploit-framework-372-released.html&psig=AOvVaw2ftOuqsuKalyYmSKK8XWh4&ust=1625064588686000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMieob-LvfECFQAAAAAdAAAAABAE)
+![]()
 <!--
 **UzJu/UzJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
