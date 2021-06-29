@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-![]()
+![](https://visitor-badge.glitch.me/badge?page_id=UzJu.readme)
+![](https://github.com/UzJu/UzJu/blob/main/images.png)
 <!--
 **UzJu/UzJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
