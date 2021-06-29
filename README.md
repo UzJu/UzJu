@@ -4,7 +4,8 @@
 ![](https://img.shields.io/badge/Noob-Hacker-blue)
 ![](https://img.shields.io/badge/Python3-yyds-blue)
 ![](https://img.shields.io/badge/CTF-WEB-blue)  
-[![](https://img.shields.io/badge/MacOs-catalina-blue?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)  
+[![](https://img.shields.io/badge/MacOs-catalina-blue?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/Ubuntu-18.04-blue?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  
 
 ### 💬 Info
 + 博客->Blog.CatGames.cn  
