@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=UzJu.readme)
-![](https://img.shields.io/badge/KanXue-2019RankTop3-blue)  
+![](https://img.shields.io/badge/KanXue-2019RankTop3-blue)
+![](https://img.shields.io/badge/Noob-Hacker-blue)  
 ![](https://github.com/UzJu/UzJu/blob/main/images.png)  
 ![](https://github.com/UzJu/UzJu/blob/main/Metasploit_Logo.png)  
 ![info](https://github-readme-stats.vercel.app/api?username=UzJu&show_icons=true&count_private=true&hide=prs&theme=cobalt)  
