@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-![image](https://github.com/UzJu/UzJu/blob/e68288c5b0aa231f58850216cb0be7ca8471e969/Metasploit_Logo.png)
+![image](https://github.com/UzJu/UzJuAuToExP/blob/master/images/1install.sh.png)
 <!--
 **UzJu/UzJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
