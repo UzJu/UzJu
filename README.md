@@ -2,6 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=UzJu.readme)
 ![](https://img.shields.io/badge/KanXue-2019RankTop3-blue)
 ![](https://img.shields.io/badge/Noob-Hacker-blue)  
+![](https://img.shields.io/badge/Python3-yyds-blue)  
 ### Info
 My Blog->Blog.CatGames.cn  
 My Email->UzJuer@163.com  
