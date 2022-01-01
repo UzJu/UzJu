@@ -11,6 +11,7 @@
 + 博客->Blog.CatGames.cn  
 + 邮箱->UzJuer@163.com  
 + Base->ShenZhen  
++ Job->目前在火线安全(huoxian.cn) base北京
 + 看雪论坛主页（没有看雪论坛的账号只能看到我写的逆向文章，渗透文章需要登录账号才可以看到）->https://bbs.pediy.com/user-home-809626.htm
 + PSRC线下沙龙深圳站演讲嘉宾
 + 深圳"卷"王，最高48小时+不休息从上海飞到深圳，打线下CTF和AWD对战，同事也叫我"卷"神
