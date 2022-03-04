@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/Ubuntu-18.04-blue?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  
 
 ### 💬 Info
++ 又菜又爱玩
 + 博客->Blog.CatGames.cn  
 + 邮箱->UzJuer@163.com  
 + Base->ShenZhen  
@@ -15,10 +16,12 @@
 + 看雪论坛主页（没有看雪论坛的账号只能看到我写的逆向文章，渗透文章需要登录账号才可以看到）->https://bbs.pediy.com/user-home-809626.htm
 + PSRC线下沙龙深圳站演讲嘉宾
 + 深圳"卷"王，最高48小时+不休息从上海飞到深圳，打线下CTF和AWD对战，同事也叫我"卷"神
+
+![Uploading qrcode_for_gh_8b8ebce5f599_1280.jpeg…]()
 ### 🔭 为什么我的仓库都是空的？
 我有提交非常多的项目代码，但是我暂时不想将这些代码开源，可能它们还需要优化(也许AutEXP这个项目被遗忘了，或许我该删除它）🤔
 
-![info](https://github-readme-stats.vercel.app/api?username=UzJu&show_icons=true&count_private=true&hide=prs&theme=tokyonight)  
+![image-20220305012908167](https://uzjumakdown-1256190082.cos.ap-guangzhou.myqcloud.com/UzJuMarkDownImageimage-20220305012908167.png)  
 ![](https://github.com/UzJu/UzJu/blob/main/images.png)  
 ![](https://github.com/UzJu/UzJu/blob/main/Metasploit_Logo.png)  
 <!--
