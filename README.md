@@ -11,6 +11,7 @@
 + 又菜又爱玩
 + 博客->UzzJu.com  
 + 邮箱->UzJuer@163.com  
++ JetBrains RequestID 4124908
 + Base->ShenZhen  
 + Job->目前在火线安全(huoxian.cn) base北京
 + 看雪论坛主页（没有看雪论坛的账号只能看到我写的逆向文章，渗透文章需要登录账号才可以看到）->https://bbs.pediy.com/user-home-809626.htm
