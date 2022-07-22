@@ -22,7 +22,7 @@
 + https://steamcommunity.com/id/SzS1mple/
 ### 交个朋友
 
-- 微信(左)和公众号(右)
+- 微信(左)和公众号(右)  
   <img src="https://user-images.githubusercontent.com/50813806/163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png" alt="image" width="150px" /><img src="https://uzjumakdown-1256190082.cos.ap-guangzhou.myqcloud.com/UzJuMarkDownImageimage-20220305012908167.png" alt="image" width="150px" />
 
   
