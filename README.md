@@ -7,10 +7,11 @@
 [![](https://img.shields.io/badge/MacOs-catalina-blue?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Ubuntu-18.04-blue?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  
 <img src="./zoomies.gif" alt="image" width="px" />  
+
 ### 💬 Info
 
 + 又菜又爱玩
-+ 博客->UzzJu.com  
++ 博客->https://UzzJu.com
 + 邮箱->UzJuer@163.com  
 + Base->ShenZhen  
 + Job->目前在火线安全(huoxian.cn) base北京
@@ -24,14 +25,14 @@
 ### 交个朋友
 
 - 微信(左)和公众号(右)  
-  <img src="https://user-images.githubusercontent.com/50813806/163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png" alt="image" width="150px" /><img src="https://uzjumakdown-1256190082.cos.ap-guangzhou.myqcloud.com/UzJuMarkDownImageimage-20220305012908167.png" alt="image" width="150px" />
+  <img src="163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png" alt="image" width="150px" /><img src="UzJuMarkDownImageimage-20220305012908167.png" alt="image" width="150px" />
 
   
 
 ### 🔭 为什么我的仓库都是空的？
 我有提交非常多的项目代码，但是我暂时不想将这些代码开源，可能它们还需要优化(也许AutEXP这个项目被遗忘了，或许我该删除它）🤔  
-![](https://github.com/UzJu/UzJu/blob/main/images.png)  
-![](https://github.com/UzJu/UzJu/blob/main/Metasploit_Logo.png)  
+![](images.png)  
+![](Metasploit_Logo.png)  
 <!--
 **UzJu/UzJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
