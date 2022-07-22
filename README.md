@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/CTF-WEB-blue)
 [![](https://img.shields.io/badge/MacOs-catalina-blue?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Ubuntu-18.04-blue?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  
-<img src="https://user-images.githubusercontent.com/50813806/163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png" alt="image" width="150px" />
+
 ### 💬 Info
 + 又菜又爱玩
 + 博客->UzzJu.com  
@@ -21,8 +21,9 @@
 + 英雄联盟：钻石守门员，现在是真金白银仔
 + https://steamcommunity.com/id/SzS1mple/
 # 交个朋友
-![image](https://user-images.githubusercontent.com/50813806/163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png)
-
+- 微信
+<img src="https://user-images.githubusercontent.com/50813806/163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png" alt="image" width="150px" />
+- 公众号
 
 ### 🔭 为什么我的仓库都是空的？
 我有提交非常多的项目代码，但是我暂时不想将这些代码开源，可能它们还需要优化(也许AutEXP这个项目被遗忘了，或许我该删除它）🤔
