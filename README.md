@@ -7,7 +7,10 @@
 [![](https://img.shields.io/badge/MacOs-catalina-blue?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Ubuntu-18.04-blue?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  
 
+<img src="./zoomies.gif" alt="image" width="px" />
+
 ### 💬 Info
+
 + 又菜又爱玩
 + 博客->UzzJu.com  
 + 邮箱->UzJuer@163.com  
