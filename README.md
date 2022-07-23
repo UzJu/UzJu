@@ -27,9 +27,6 @@
 - 微信(左)和公众号(右)  
   <img src="163713612-705b3f5e-1090-439f-a844-94563fe4b5fe.png" alt="image" width="150px" /><img src="UzJuMarkDownImageimage-20220305012908167.png" alt="image" width="150px" />
 
-  
-
-[![snake](./github-user-contribution.svg)](https://github.com/uzju)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=UzJu&bg_color=000000&color=2bff00&line=e00099&point=05ffd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
