@@ -29,21 +29,12 @@
 
   
 
+[![snake](./github-user-contribution.svg)](https://github.com/uzju)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=UzJu&bg_color=000000&color=2bff00&line=e00099&point=05ffd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🔭 为什么我的仓库都是空的？
+
 我有提交非常多的项目代码，但是我暂时不想将这些代码开源，可能它们还需要优化(也许AutEXP这个项目被遗忘了，或许我该删除它）🤔  
 ![](images.png)  
 ![](Metasploit_Logo.png)  
-<!--
-**UzJu/UzJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
