@@ -17,11 +17,6 @@
 + Job->目前在火线安全(huoxian.cn) base北京
 + 看雪论坛主页（没有看雪论坛的账号只能看到我写的逆向文章，渗透文章需要登录账号才可以看到）->https://bbs.pediy.com/user-home-809626.htm
 + PSRC线下沙龙深圳站演讲嘉宾
-
-### 🎮 Steam 也许可以加个好友:)
-+ CSGO：深圳B5线下赛-挨打战队
-+ 英雄联盟：钻石守门员，现在是真金白银仔
-+ https://steamcommunity.com/id/SzS1mple/
 ### 👴🏻交个朋友
 
 - 微信(左)和公众号(右)  
